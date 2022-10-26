@@ -50,18 +50,7 @@ public class ACTIVITY5 {
 		        System.out.println(int1 + " / " + int2 + " = " + result);
 		        break;
 
-		        
-		      case '%':
-			        result = int1 / int2;
-			        System.out.println(int1 + " & " + int2 + " = " + result);
-			        break;
-			        
-			        
-		      case '^':
-			        result = int1 / int2;
-			        System.out.println(int1 + " ^ " + int2 + " = " + result);
-			        break;
-			        
+		  
 		      default:
 		        System.out.println("Invalid operator!");
 		        break;
