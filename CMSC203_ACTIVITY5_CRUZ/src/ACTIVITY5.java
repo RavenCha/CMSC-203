@@ -11,7 +11,7 @@ public class ACTIVITY5 {
 		    Scanner input = new Scanner(System.in);
 
 		    // ask users to enter operator
-		    System.out.println("Choose an operands : +, -, *, /, %, or ^");
+		    System.out.println("Choose an operands : +, -, *, or / ");
 		    operator = input.next().charAt(0);
  
 		    System.out.println("=======================");
